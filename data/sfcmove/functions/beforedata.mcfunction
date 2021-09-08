@@ -1,0 +1,1 @@
+execute as @a at @s if block ~ ~-.5 ~ minecraft:chest if score @s SF_crouch matches 20.. run tag @s add SF_chest
